@@ -1,6 +1,6 @@
 {
   "name": "ngx-request-sdk",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A fantastic Angular library for HTTP method",
   "scripts": {
     "ng": "ng",
